@@ -30,7 +30,7 @@ Go to directory you want to work on
 
 Clone Repository : 
 
-    https://github.com/singhnk288/Banking-Management-System-in-Flask.git
+    https://github.com/abhinav7501/Bank-Management-main.git
 
 ## Python Setup 
 
